@@ -15,7 +15,7 @@ This repository contains all the projects I am developing during my study of the
    - [Projeto 5 - Nome do projeto](#)  
 
 ## **Click on any of the images below to see the readme file and live demo of the project.**
-   -[![Simple Page CV](01.simple-page-cv/img/01.png)](https://github.com/Pedro-Eyer/Projetos-RoadMap/tree/main/Projetos%20Frontend./01.simple-page-cv)
+   -[![Simple Page CV](Projetos-RoadMap/01.simple-page-cv/img/01.png)](https://github.com/Pedro-Eyer/Projetos-RoadMap/tree/main/Projetos%20Frontend./01.simple-page-cv)
 
 ## How to run projects locally
 To run any of the projects locally, follow these steps:
