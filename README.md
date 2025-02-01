@@ -1,8 +1,8 @@
-# Roadmap Frontend - Meus Projetos
+# Roadmap Frontend - My Projects
 
-Este repositório contém todos os projetos que estou desenvolvendo durante meu estudo do roadmap de frontend. Conforme avanço nos tópicos, vou adicionando os links dos projetos e uma breve descrição de cada um.
+This repository contains all the projects I am developing during my study of the frontend roadmap. As I progress through the topics, I will add project links and a brief description of each one.
 
-## Estrutura do Roadmap
+## Roadmap Structure
 1. **HTML & CSS**
    - [Simple Page CV](https://github.com/Pedro-Eyer/Projetos-RoadMap/tree/main/Projetos%20Frontend./01.simple-page-cv)  
    - [Basic HTML Website]- (#)  
@@ -14,20 +14,25 @@ Este repositório contém todos os projetos que estou desenvolvendo durante meu 
 3. **Frameworks e Bibliotecas**
    - [Projeto 5 - Nome do projeto](#)  
 
-## Como rodar os projetos localmente
-Para rodar qualquer um dos projetos localmente, siga os passos:
+## **Click on any of the images below to see the readme file and live demo of the project.**
+   -[![Simple Page CV](01.simple-page-cv/img/01.png)](https://github.com/Pedro-Eyer/Projetos-RoadMap/tree/main/Projetos%20Frontend./01.simple-page-cv)
 
-1. Clone o repositório:
+## How to run projects locally
+To run any of the projects locally, follow these steps:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
-2. Acesse o diretório do projeto desejado:
+2. Access the desired project directory:
    ```bash
    cd nome-do-projeto
    ```
-3. Abra o arquivo `index.html` no navegador ou rode um servidor local (caso seja necessário).
+3. Open the `index.html` file in the browser or run a local server (if necessary).
 
 ---
 
-Vou atualizando este README conforme avanço no roadmap! 🚀
+I will update this README as I progress along the roadmap! 🚀
+
+�
 
