@@ -1,6 +1,5 @@
 # Roadmap Frontend - My Projects
 
-https://roadmap.sh/projects/single-page-cv
 
 This repository contains all the projects I am developing during my study of the frontend roadmap. As I progress through the topics, I will add project links and a brief description of each one.
 
