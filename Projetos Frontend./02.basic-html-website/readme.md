@@ -4,7 +4,6 @@
 Create a basic website using HTML. Focus on using correct HTML tags and structure.
 
 https://roadmap.sh/projects/basic-html-website
-
 ## Requirements
 
 ### Pages:
