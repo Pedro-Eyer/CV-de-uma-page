@@ -6,8 +6,8 @@ This repository contains all the projects I am developing during my study of the
 
 ## Roadmap Structure
 1. **HTML & CSS**
-   - [Simple Page CV](https://github.com/Pedro-Eyer/Projetos-RoadMap/tree/main/Projetos%20Frontend./01.simple-page-cv)  
-   - [Basic HTML Website]- (#)  
+   - [Simple Page CV](https://roadmap.sh/projects/single-page-cv)  
+   - [Basic HTML Website]- (https://roadmap.sh/projects/basic-html-website)  
 
 2. **JavaScript**
    - [Projeto 3 - Nome do projeto](#)  
