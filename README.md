@@ -6,7 +6,7 @@ This repository contains all the projects I am developing during my study of the
 ## Roadmap Structure
 1. **HTML & CSS**
    - [Simple Page CV](https://roadmap.sh/projects/single-page-cv)  
-   - [Basic HTML Website]- (https://roadmap.sh/projects/basic-html-website)  
+   - [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)  
 
 2. **JavaScript**
    - [Projeto 3 - Nome do projeto](#)  
